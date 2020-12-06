@@ -2,7 +2,7 @@
 import sys
 from PyQt5.QtWidgets import QApplication, QSplashScreen
 
-from EnergyUse import MainWindow
+from Main import MainWindow
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
